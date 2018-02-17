@@ -1,456 +1,1458 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/97c0mGR.png" group-title="INFO",= Update
-http://184.173.142.117:21728/stream
+#EXTINF:-1,---TOP ITALIA---
 
-#EXTINF:-1 tvg-id="" group-title="Rai 1" tvg-logo="https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Rai 1
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RAI)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="317.png",Rete 4 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="318.png",Canale 5 HD
+#EXTINF:-1,Rai 1 off line
+http://149.100.19.146:8000/play/a00w
+#EXTINF:-1,Rai 2 off line
+http://149.100.19.146:8000/play/a00x
+#EXTINF:-1,Rai 3 off line 
+http://149.100.19.146:8000/play/a00y
+#EXTINF:-1,Rete 4 
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+#EXTINF:-1,Rete 4 HD off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
+#EXTINF:-1,Canale 5 HD off line
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="319.png",Italia 1 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="007.png",La7
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="015.png",Rai 4
-https://raiquattro1-i.akamaihd.net/hls/live/253230/rai4sec_1_1800/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="016.png",Iris
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="Iris" group-title="MEDIASET" tvg-logo="016.png",Iris HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="326.png",Cielo
-http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="312.png",Paramount Channel
+#EXTINF:-1,Italia 1
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8 
+#EXTINF:-1,Italia 1 HD off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Rai 4
+http://149.100.19.146:8000/play/a00z
+#EXTINF:-1,Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1,Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:-1,La5 off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+#EXTINF:-1,La5 HD off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1,La 7 off line
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+#EXTINF:-1,Paramount Channel
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="022.png",TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="305.png",La7D OFF
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="023.png",La5
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="La5" group-title="MEDIASET" tvg-logo="023.png",La5 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="024.png",QVC
-http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="025.png",Mediaset Extra
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="Mediaset Extra" group-title="MEDIASET" tvg-logo="025.png",Mediaset Extra HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="026.png",Italia 2
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="Italia 2" group-title="MEDIASET" tvg-logo="026.png",Italia 2 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="027.png",RTL 102.5 TV
-http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="028.png",HSE24
-rtmp://xapp1023574018c1000286.f.l.f.lb.core-cdn.net/1000286copo playpath=live/app1023574018/w1020002321/live_it_500 swfUrl=http://www.hse24.it/hse24/js/player.swf pageUrl=http://www.hse24.it/diretta-tv/ live=1 timeout=120
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="029.png",Top Crime
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="Top Crime" group-title="MEDIASET" tvg-logo="029.png",Top Crime HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="030.png",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="031.png",Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="021.png",Sky Tg24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="034.png",Tgcom24 
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="Tgcom24" group-title="MEDIASET" tvg-logo="034.png",Tgcom24 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="035.png",Rai Storia
-http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="320.png",Rai Sport+
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
-
-#EXTINF:-1 tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="037.png",Rai Sport
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="",Supertennis [OFF]
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="315.png",Canale Italia 83 OFF
-
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="042.png",Radio Italia Tv
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="045.png",Telemarket OFF
-
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="046.png",FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="047.png",Radio 105 TV
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="048.png",Padre Pio TV
-https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="049.png",Rai Scuola
-http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="051.png",M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="041.png",Radio capital Tivù
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="053.png",ORLER CHANNEL
-http://77.92.76.135:1935/orler/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="054.png",TG Norba24
-rtmp://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream
-
-#EXTINF:-1 tvg-id="" group-title="LT MULTIMEDIA" tvg-logo="055.png",ALICE
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Top Crime off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Top Crime HD off line
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_600_av-p.m3u8
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_600_av-p.m3u8
+#EXTINF:-1,Rai Storia
+http://b2.stream6.rai.it/italy/smil%3araistoria.smil/chunklist_b900000.m3u8?auth=daEa3dzcycocbcnbPdLaLbXbra_a3dPcjaf-bw6Xge-c0-FmwwvGr&aifp=V001
+#EXTINF:-1,Rai Scuola
+http://b2.stream6.rai.it/italy/raiscuola.smil/playlist.m3u8
+#EXTINF:-1,Rai Nettuno
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Alice
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" group-title="LT MULTIMEDIA" tvg-logo="056.png",MARCOPOLO
+#EXTINF:-1,Marcopolo
 http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Iris
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Iris HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Cielo (off line)
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,Mediaset Extra
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Mediaset Extra HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 2
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Italia 2 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Class-Cnbc
+http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
+#EXTINF:-1,Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,Qvc
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1,Class Tv Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,Radio Radicale Tv
+http://video-4.radioradicale.it:1935/diretta/padtv1/chunklist_w1993029635.m3u8
+#EXTINF:-1,Parole Di Vita
+http://1so1.troydesign.eu/dynamic/pdvm/smil:channel1.smil/?scheme=m3u8
+#EXTINF:-1,HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,TELE PADRE PIO 
+https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w738465886_b130000_slita.m3u8
+#EXTINF:-1,RAI ITALIA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/rai.php/index.m3u8
+#EXTINF:-1,---CANALI SPORT ITALIA---
 
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="314.png",R101 TV
-http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="059.png",Ibiza TV
-http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="308.png",kissKiss Napoli TV
-http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="309.png",KIssKiss TV
-http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="061.png",KissKiss Italia TV
-http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="062.png",TeleOLTRE
-rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="063.png",Automoto TV
+#EXTINF:-1,THE LEGEND JUVE
+http://pandasat.info/iptv/the_legend_juve.mp4
+#EXTINF:-1,Automoto Tv
 rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="068.png",Rtv San Marino
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="069.png",Euronews [NON-ATTIVO]
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="070.png",Camera Dei Deputati
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="071.png",Senato TV
-http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="",Class CNBC
-http://liveclass.edgesuite.net/i/classcnbc_1@199799/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="",Class TV Moda
-http://liveclass.edgesuite.net/i/classtvmoda_1@199801/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="RadionorbaTV.it" group-title="MUSIC TV" tvg-logo="072.png",Radionorba Tv
-rtmp://37.48.83.34:80/radionorbatv/norbatv_source.stream 
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="073.png",UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="074.png", Virgin Tv
-http://fms.105.net:1935/live/virgin1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="076.png",Radio Montecarlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="077.png",Repubblica TV
-http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="080.png",FORMUSIC TV
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="081.png",Rock TV
-mmsh://mediatv2.topix.it/24RockOne66
-
-#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="082.png",Il Meteo.It Oggi
-http://media.ilmeteo.it/video/iphone/oggi.m4v
-
-#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="084.png",Il Meteo.It Domani
-http://media.ilmeteo.it/video/iphone/domani.m4v
-
-#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="083.png",Il Meteo.It Dopodomani
-http://media.ilmeteo.it/video/iphone/dopodomani.m4v
-
-#EXTINF:-1 tvg-id="" group-title="RADIO" tvg-logo="085.png",Radio Deejay
-http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
-
-#EXTINF:-1 group-title="NO CATEGORY" tvg-logo="1000.png",[COLOR green][B]         CANALI REGIONALI[/B][/COLOR]
-plugin://plugin.video.youtube/
-
-#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="093.png",Rete 8 News 24
-rtsp://live.cdn2.streamago.tv/streamago/39648/33591/?idcanale=33591
-#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="094.png",Rete 8 Sport
-rtsp://live.cdn2.streamago.tv/streamago/39648/36567/?idcanale=36567
-#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="098.png",Rete8
-rtsp://live.cdn2.streamago.tv/streamago/39648/36568/?idcanale=36568
-
-#EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="087.png",Lucania TV
-rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
-
-#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="100.png",Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="103.png",Castrovillari TV
-rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
-#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="104.png",8 Video Calabria
-rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
-#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="106.png",Tele Diogene
-http://wms.shared.streamshow.it:1935/telediogene/telediogene/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="112.png",Canale 8
-rtmp://wms.shared.streamshow.it:80/canale8/canale8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="113.png",Telecolore
-http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="114.png",Tv Luna
-http://live.streamcaster.net:1935/test_live/teleluna/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="117.png",Televomero
-http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="118.png",Julie Italia
-http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="121.png",Telenuova 2
-rtmp://54.228.254.95:1935/live/myStream
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="122.png",Telenuova
-http://31.7.144.144:1935/telenuova/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="131.png",Tele Argento
-http://wms.shared.streamshow.it:1935/teleargento/teleargento/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="132.png",Nettuno TV
-http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="134.png",Radio Bruno TV
-rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="135.png",Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="136.png",Teleromagna News
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="137.png",Teleromagna Sport
+#EXTINF:-1,Canale 85 
+http://wms.shared.streamshow.it:80/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1,Luna Sport
+http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8
+#EXTINF:-1,Rai Sport off line
+http://185.53.163.86:8888/play/a00t
+#EXTINF:-1,Rete 8 Sport 
+rtmp://flash8.streaming.xdevel.com:80/rete8sport/_definst_/rete8sport
+#EXTINF:-1,Rete 8
+rtmp://flash2.streaming.xdevel.com:80/rete8/_definst_/rete8 
+#EXTINF:-1,Rtv San Marino Sport
+rtmp://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR 
+#EXTINF:-1,Teleromagna Sport
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="138.png",Teleromagna Mia
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="139.png",Teleromagna Lifestyle
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="144.png",TeleStudio Modena
-rtmp://wms.shared.streamshow.it:80/telestudiomo/telestudiomo
-#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="145.png",Icaro Tv
-http://open.http.mp.streamamg.com/p/3000380/sp/300038000/playManifest/entryId/0_xgibi59e/format/applehttp/protocol/http/uiConfId/30011075/a.m3u8
+#EXTINF:-1,---CANALI SPORT ESTERI---
 
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="",Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="146.png",Company TV
-rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA-VENETO" tvg-logo="148.png",Antenna 3
-rtsp://live.cdn2.streamago.tv/streamago/34674/28723/?idcanale=28723
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="149.png",Telepordenone
-rtmp://213.187.12.18/telepn/telepn
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="150.png",Sportelevision
-http://37.59.17.33:1935/sportelevision_live/smil:channel.smil/playlist.m3u8
+#EXTINF:-1,Abudhabi Sport
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,A.d. Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,A.d. Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,ALL SPORTS BRASIL 
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,ARENA SPORT 1 SERBIA
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SERBIA
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SERBIA
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 SERBIA
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 HR
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,ARENA SPORT 2 HR
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,ARENA SPORT 3 HR
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,ARENA SPORT 4 HR
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,Bein Sport Haber
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1,BT SPORT 1
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10083/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10082/index.m3u8
+#EXTINF:-1,Bursaspor Tv
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
+#EXTINF:-1,Bursaspor TV (opt. 2)
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,chelsea 1
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,chelsea 2
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_282_av-p.m3u8
+#EXTINF:-1,DIGI SPORT 1 ROM.
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10090/index.m3u8
+#EXTINF:-1,DIGI SPORT 2 ROM.
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10091/index.m3u8
+#EXTINF:-1,DIGI SPORT 1 UNG.
+http://stream:starperkish@85.14.32.15:8003/udp/239.100.100.142:8888
+#EXTINF:-1,DIGI SPORT 2 UNG.
+http://stream:starperkish@85.14.32.15:8003/udp/239.100.100.143:8888
+#EXTINF:-1,RING BG
+http://stream:starperkish@85.14.32.15:8003/udp/239.100.111.154:8888
+#EXTINF:-1,Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,Real madrid
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,Sports Tonight
+http://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD/playlist.m3u8?ref=www.sportstonightlive.com&USER=STL_0001
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
+#EXTINF:-1,Sport Tv 3
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Todo Deportes Tv
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8            
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac 12 Washington 
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+#EXTINF:-1,Juego Olimpicos HD
+http://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,---NEWS ITALIA---
 
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="154.png",Teleitalia 41
-rtmp://live.flv.xuniplay.fdnames.com:1935/live/ playpath=centroserena swfUrl=http://centroserena.fabbricadigitale.it/player.swf pageUrl=http://www.centroserena.it/webtv.html live=1 timeout=120
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="155.png",Tuscia Sabina 2000
-rtmp://stream.ts2000tv.it/oflaDemo/ playpath=TusciaSabina2 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.7.4/jwplayer.flash.swf pageUrl=http://ts2000tv.it/diretta/ live=1 timeout=120
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="161.png",Canale 10
-rtmp://37.187.142.147:1935/ch10live/high.stream 
-#EXTINF:-1 tvg-id="" group-title="LAZIO-TOSCANA" tvg-logo="163.png",TRG
-http://46.37.22.126:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="123.png",Napoli Canale 21
-http://live.kronopress.com:1935/canale21_live/stream8/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="162.png",Retesole
-http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="166.png",Imperia TV
-http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="167.png",Primocanale
-rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
-#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="168.png",Teleliguria Sud
-rtmp://misty.infoporto.it:1935/play/tls
-#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="169.png",Telenord
-http://streamer.oodlz.it/hls/livestream.m3u8
+#EXTINF:-1,Tgcom24
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Tgcom24 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Senato Tv
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1,Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1,Sky Tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Tg Norba 24
+rtmp://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream
+#EXTINF:-1,Il Meteo.it Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1,Il Meteo.it Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1,Il Meteo.it Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1,---MUSICA---
 
-#EXTINF:-1 tvg-id="" group-title="PIEMONTE" tvg-logo="176.png",QuartaRete
-http://sb.top-ix.org:1935/quartaretetv/quartareteweb/plyalist.m3u8
-#EXTINF:-1 tvg-id="" group-title="PIEMONTE" tvg-logo="327.png",QuartaRete Blu
-http://sb.top-ix.org:1935/quartaretetv/quartaretebluweb/plyalist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="",Saronno TV
-rtmp://msh0193.stream.seeweb.it/live/stream00.sdp
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="181.png",TSN Livigno
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="182.png",TSN Tele Sondrio News
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="183.png",Rete 55
-http://live.youiptv.ch:1935/Rete55/R55.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="185.png",Video Brescia
-http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="186.png",Primarete Lombardia
-http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="187.png",Telecolor Lombardia
-http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="188.png",Cremona 1 
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="189.png",Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="191.png",Telemonteve
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="192.png",Telemonteve 3
-http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="193.png",Teleunica Lecco
-http://flash3.ipercast.net/teleunica.tv-live/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="194.png",Teleunica Sondrio
-http://flash3.ipercast.net/teleunica.tv-live/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="195.png",TCI
-rtmp://tvcn3sz3vud.rtmphost.com/FMEWebViewer playpath=livestream swfUrl=http://infxapps.influxis.com/apps/jpfssa2ikiocdpy27bde/FMEWebViewer/FMEWebViewer.swf pageUrl=http://www.tci-italia.it/ live=1 timeout=1
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="196.png",Super Tv
-rtmp://wms.shared.streamshow.it:443/supertv/supertv
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="198.png",TeleBoario
-rtmp://flash7.streaming.xdevel.com:80/teleboario playpath=teleboario swfUrl=http://share.xdevel.com/api/lib/js/jwplayer5/player.swf pageUrl=http://share.xdevel.com/api/?platform=streamsolution&get=player&key=bdf8d1f1f4ae8b1534d6b59b86931927
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="199.png",Studio 1
-rtmp://91.121.222.160:1935/studiouno/studiouno.sdp 
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="201.png",Espansione TV
-http://espansione.meway.tv:80/live/espansione/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="203.png",TeleMantova
-rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="205.png",TeleMilano Piu' Blu
-rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
-
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="211.png",Tele Galatina
-rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina 
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="214.png",TeleBari
-rtmp://fl1.mediastreaming.it:1935/telebari/livestream
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="216.png",Antichita' Chiossone
-rtmp://tzvr73.live.cloud.influxis.com:1935/tzvr73/_definst_/acLive
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="217.png",Studio 100
-rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="219.png",Teleonda
-rtmp://wms.shared.streamshow.it:443/teleonda/teleonda
-#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Canale 7
-rtmp://wms.shared.streamshow.it:80/canale7/canale7
-
-#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="225.png",Radio Iglesias TV
-http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="226.png",Telegi
-rtsp://live.cdn2.streamago.tv/streamago/31314/25470/?idcanale=25470
-#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="229.png",Sassari Tv
-rtsp://live.cdn2.streamago.tv/streamago/22615/18731/?idcanale=18731
-#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="230.png",VideoLina
-http://178.33.229.111/live/Videolina/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="239.png",Radio Tivù Azzurra
-rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="240.png",Radio Universal TV
+#EXTINF:-1,RADIO DJ TV	
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,RADIO 105 NETWORK TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1,VIRGIN TV 
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,Radio Universal Tv
 rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="243.png",Radio Taormina TV
-http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="244.png",Telecolor
-rtmp://live.lasiciliaweb.it:1935/tg/tc
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="247.png",Tele Radio Sciacca
+#EXTINF:-1,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Radio Monte Carlo Tv
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
+#EXTINF:-1,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,Radio Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Rock Tv
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Tele Radio Sciacca
 rtmp://streamtv.level7.it:1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="252.png",Video Star TV
-rtmp://live1.kronopress.com:1935/videostar_live/videostar
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="253.png",Rtp TV
-rtmp://wms.shared.streamshow.it:80/rtp/rtp
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="258.png",C.T.S TV
-rtmp://vod1.kronopress.com:1935/cts_live/cts
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="261.png",Teleacras
-rtmp://streamtv.level7.it/teleacras-tv/teleacras-tv 
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="262.png",Onda tv
-rtmp://live.streamcaster.net:1935/ondatv_live/ondatv 
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="263.png",Antenna Sicilia
-rtmp://live.lasiciliaweb.it:1935/tg/as 
-
-#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="268.png",Tele Argento
-rtmp://wms.shared.streamshow.it:1935/teleargento/teleargento
-#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="273.png",Siena TV
-rtmp://wz1.newradio.it:80/elena831/elena831
-#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="275.png",Televaldarno RTV38
-http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="UMBRIA-MARCHE" tvg-logo="276.png",Vera TV
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="278.png",Umbria TV
-rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp
-#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="279.png",Retesole
-http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="287.png",Company Tv
+#EXTINF:-1,Radio Taormina Tv
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1,Radio Bruno Tv
+rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
+#EXTINF:-1,Radio 51 Tv
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Rti Hd
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,One Hd By
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,Kiss Kiss Italia Tv
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Napoli Tv
+http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,Vibeetv Music Pop
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Klik Tv (rep Ceca)
+http://92.62.234.201:2249/klik.flv
+#EXTINF:-1,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1,Mimusica Hd
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Xite
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,Senzi
+http://109.74.144.130/live/senzihity/senzihity.m3u8
+#EXTINF:-1,Company Tv
 rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="288.png",Televenezia
-rtmp://flash2.streaming.xdevel.com:80/televenezia/televenezia
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="289.png",TeleVeneto
-rtmp://1se3.troydesign.eu:80/televeneto/channel1_televeneto
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="290.png",TeleChiara
-rtmp://fms.tvavicenza.it:1935/telechiara/diretta
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="292.png",VicenzaPiu TV
-rtmp://fms.vicenzapiu.tv:1935/vicenzapiutv/live
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="293.png",Cafe TV 24
-rtmp://srv3.meway.tv:1957/cafe/live
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="294.png",Tva Vicenza
-rtmp://fms.tvavicenza.it:1935/live/diretta_1
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="295.png",Rete Veneta
-http://streaming.reteveneta.it/RVApple.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Radio Tv Azzurra Live
+rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
+#EXTINF:-1,Telemusica
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1,Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Krone Tv
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1,O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:-1,Capital Tv Uk
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1,Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1,Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,R&B Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1,Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1,Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1,Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1,Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1,Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1,Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,Hip-Hop And R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1,Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1,Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1,90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,MUSIX VOX TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1,MC 124
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1,Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1,FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,FRESH TV MUSIC 
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+#EXTINF:-1,MUSIC TOP 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,POLO PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1,RADIO TV U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,TV POP 
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1,CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,THE COUNTRY NETWORK
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,---VARI ITALIA---
 
-#EXTINF:-1 tvg-id="" group-title="Trentino Alto Adige" tvg-logo="302.png",Video 33
-http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="304.png",TVRS
+#EXTINF:-1,8 Video Calabria
+rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
+#EXTINF:-1,Bella TV
+rtmp://server.bellaradio.it:1935/livepkgr?adbe-live-event=diretta/bellatv
+#EXTINF:-1,Brescia Tv
+http://wms.shared.streamshow.it/brescialivetv/brescialivetv/playlist.m3u8
+#EXTINF:-1,C.t.s.90
+rtmp://vod1.kronopress.com:1935/cts_live/cts
+#EXTINF:-1,Canale 7
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+#EXTINF:-1,Canale 8
+rtmp://wms.shared.streamshow.it:80/canale8/canale8
+#EXTINF:-1,CANALE 8 AVOLA
+http://flash7.streaming.xdevel.com/canale8live/canale8live/playlist.m3u8
+#EXTINF:-1,Canale 10
+rtmp://37.187.142.147:1935/ch10live/high.stream
+#EXTINF:-1,Canale 21 NAPOLI
+http://canale21.live.sloode.com:1935/canale21.live/canale21/playlist.m3u8
+#EXTINF:-1,CANALE 21 LAZIO
+http://canale21.live.sloode.com:1935/canale21.live/stream8/chunklist_w1679963337.m3u8
+#EXTINF:-1,CANALE 74
+http://151.80.100.112:1935/canale74/canale74/chunklist_w174779335.m3u8
+#EXTINF:-1,Canale 85
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1,Carina Tv
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DONNA TV 
+http://wms.shared.streamshow.it/okitalia/okitalia/chunklist_w633067146.m3u8
+#EXTINF:-1,Eden Tv
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1,GLOBUS
+http://flash2.streaming.xdevel.com:80/globusradiocam/globusradiocam/playlist.m3u8
+#EXTINF:-1,Imperia Tv
+http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Info Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/hasbahca.m3u8
+#EXTINF:-1,Irc Tv
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1,Juwelo IT
+rtmp://edge.3qsdn.com/2559/_definst_/mp4:2559_KXxMdL7PRmGDfhy
+#EXTINF:-1,Julie Italia
+http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
+#EXTINF:-1,Lucania TV
+rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+#EXTINF:-1,Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+#EXTINF:-1,Primarete Lombardia
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Primocanale
+rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
+#EXTINF:-1,Radio Tv Peloritana
+rtmp://wms.shared.streamshow.it:80/rtp/rtp
+#EXTINF:-1,REGGIO TV (RTV)
+https://cdn2.streamera.tv/streamagoedge/49217/42253/playlist.m3u8
+#EXTINF:-1,Rete 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/playlist.m3u8
+#EXTINF:-1,Rete Biella Tv
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+#EXTINF:-1,Rete Oro
+rtmp://149.202.200.72/ReteOro/LiveIst/ReteOro
+#EXTINF:-1,Retesole
+rtmp://flash2.bsnewline.com:1935/retesolelazio/retesolelazio
+#EXTINF:-1,Rttr
+rtmp://wma07.fluidstream.net:1935/RTTRlive/livestream
+#EXTINF:-1,Sicilia Media Tv
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1,Studio 100
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+#EXTINF:-1,Sudtirol Tv
+http://77.72.196.214:8554/live/SuedtirolTV/hasbahca.m3u8
+#EXTINF:-1,Super J Tv
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1,Super J Tv (opt. 2)
+rtmp://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv
+#EXTINF:-1,SuperTv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,T.r.c. Modena
+rtmp://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP
+#EXTINF:-1,TVRS
 http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="175.png",ETV Marche
-http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="227.png",Fano Tv
-http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXT-X-ENDLIST
+#EXTINF:-1,Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1,Tele Citta Padova
+rtmp://stream.telepadova.com/live/tv1
+#EXTINF:-1,Tele Galatina
+rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina
+#EXTINF:-1,Tele Laser
+rtmp://flash2.bsnewline.com:1935/telelaser/telelaser
+#EXTINF:-1,Tele Mia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1,Tele Milano
+rtmp://91.121.222.160:1935/piublu/piublu.sdp
+#EXTINF:-1,Tele Oltre
+rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
+#EXTINF:-1,TELECOLOR CT 2 TV SICILIANA
+http://live.lasiciliaweb.it/hls/tc_640/index.m3u8
+#EXTINF:-1,TELEACRAS
+http://vod1.kronopress.com:1935/teleacras_live/teleacras/playlist.m3u8
+#EXTINF:-1,TeleBari
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream
+#EXTINF:-1,TeleChiara
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:-1,TeleMilano Piu' Blu
+rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
+#EXTINF:-1,TelePavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Teleabruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1,Telecolor Lombardia
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Telecolore
+http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1,Teleitalia 2
+rtmp://live.flv.xuniplay.fdnames.com:1935/live/centroserena
+#EXTINF:-1,Teleliguria Sud
+rtmp://misty.infoporto.it:1935/play/tls
+#EXTINF:-1,Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1,Telenuova 2
+rtmp://54.228.254.95:1935/live/myStream
+#EXTINF:-1,TELE PEGASO
+http://iphone-streaming.ustream.tv/uhls/6535/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telepordenone
+rtmp://213.187.12.18/telepn/telepn
+#EXTINF:-1,Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1,Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1,Telestar 1
+http://193.34.109.10:8090/
+#EXTINF:-1,Teletricolore
+http://video2.kronopress.com:1935/etv_live/teletricolore/playlist.m3u8
+#EXTINF:-1,Teletris 172
+http://flash7.streaming.xdevel.com:80/tris/tris/playlist.m3u8
+#EXTINF:-1,Televaldarno RTV38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1,Televendita Arte Network
+http://77.92.76.135:1935/tuttositiweb/livestream/playlist.m3u8?wowzasessionid=967085821
+#EXTINF:-1,Televenezia
+rtmp://flash2.streaming.xdevel.com:80/televenezia/televenezia
+#EXTINF:-1,Tirreno Sat
+http://xtirrenosatx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,TOURING TV
+http://flash2.streaming.xdevel.com:80/radiotouring10496/radiotouring10496/playlist.m3u8
+#EXTINF:-1,Trm H24
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:-1,Tsn Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1,Tsn Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1,Tv Luna
+http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
+#EXTINF:-1,Tva Vicenza
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+#EXTINF:-1,TVR XENON
+http://player.adobemediaserver.it/speedweb-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,Ultima Tv
+http://vod1.kronopress.com:1935/ultimatv_live/4B96-D3C4-CD06-4CFE/chunklist_w1315656524.m3u8
+#EXTINF:-1,Umbria TV
+rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp
+#EXTINF:-1,Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1,Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:-1,Videolina
+http://178.33.229.111/live/Videolina/master.m3u8
+#EXTINF:-1,TELEFRIULI
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:-1,TELE TICINO 
+https://livevideo.infomaniak.com/streaming/livecast/teleticinolive/chunklist_w791861389.m3u8
+#EXTINF:-1,CANALE 8 AVOLA
+http://flash7.streaming.xdevel.com/canale8live/canale8live/playlist.m3u8
+#EXTINF:-1,78 gold  ( 7 gold)
+https://ssh101.com/m3u8/dyn/Gold78/index.m3u8
+#EXTINF:-1,Teletris 172
+http://flash7.streaming.xdevel.com:80/tris/tris/playlist.m3u8
+#EXTINF:-1,TVR XENON
+http://player.adobemediaserver.it/speedweb-hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,TVR SICILIA (NO h24 Solo Eventi Live)
+https://ssh101.com/m3u8/dyn/tvrsicilia/index.m3u8
+#EXTINF:-1,GLOBUS TV
+http://flash2.streaming.xdevel.com:80/globusradiocam/globusradiocam/playlist.m3u8
+#EXTINF:-1,TOURING TV
+rtmp://flash2.streaming.xdevel.com:80/radiotouring10496/radiotouring10496
+#EXTINF:-1,VUEMME
+http://xvuemmetvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canale 10 Gela
+rtsp://mobilestr2.livestream.com/livestreamiphone/canale10gela
+#EXTINF:-1,CANALE 74
+http://151.80.100.112:1935/canale74/canale74/chunklist_w174779335.m3u8v
+#EXTINF:-1,ANTENNA SICILIA     
+http://live.lasiciliaweb.it/hls/as_640/index.m3u8
+#EXTINF:-1,TELECOLOR CT 2 TV SICILIANA
+http://live.lasiciliaweb.it/hls/tc_640/index.m3u8
+#EXTINF:-1,TELEACRAS
+http://vod1.kronopress.com:1935/teleacras_live/teleacras/playlist.m3u8
+#EXTINF:-1,Video mediterraneo hd
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+#EXTINF:-1,VIDEO FARO
+http://dr21.streamcaster.net:1935/videofaro/videofaro/playlist.m3u8
+#EXTINF:-1,Yvii tv
+rtmp://yviistreamer.kernel.online:1935/live/yviitv
+#EXTINF:-1,FM Italia 
+http://flash8.streaming.xdevel.com:80/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:-1,Canale 8  Palermo
+http://live.streamcaster.net:1935/canale8_live/ECg98Gm5wMYE3VabXNBzphgS4EWyfctj/playlist.m3u8
+#EXTINF:-1,TVR SICILIA  Televisione Regionale Siciliana
+rtsp:\\mobilestr2.livestream.com\livestreamiphone\eurovideoit
+#EXTINF:-1,Canale 10  Gela
+rtsp://mobilestr2.livestream.com/livestreamiphone/canale10gela
+#EXTINF:-1,TVR SICILIA 3 USTREAM
+http://iphone-streaming.ustream.tv/uhls/20499168/streams/live/iphone/playlist.m3u
+#EXTINF:-1,REI TV
+http://xrei103x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,VIDEO STAR
+http://live1.kronopress.com:1935/videostar_live/videostar/playlist.m3u8
+#EXTINF:-1,SIRACUSA LIVE TV  
+http://iphone-streaming.ustream.tv/uhls/17255847/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ALPA 1
+http://live.streamcaster.net:1935/alpauno/alpauno/playlist.m3u8 
+#EXTINF:-1,E20 SICILIA
+http://live.streamcaster.net:1935/e20sicilia_live/e20sicilia/playlist.m3u8
+#EXTINF:-1,TVIO
+http://wms.shared.streamshow.it/tvio/tvio/playlist.m3u8
+#EXTINF:-1,CANALE 66
+https://www.youtube.com/watch?v=l5HJo-DIfTA
+#EXTINF:-1,---MEDIA PLAY---
+
+#EXTINF:-1,20 anni di meno 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7122911_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,5 days of war 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7592545_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,88 minuti 2007
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7600657_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,A qualsiasi prezzo 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6399585.mp4/index_0_av.m3u8
+#EXTINF:-1,Al posto tuo 2016
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7708680_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Alex Cross la memoria del killer 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7890011_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Al? ha gli occhi azzurri 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7766280_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Amore cucina e curry 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6383557_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Andarevia 2013 (Bisio regista)
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5565711_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ang?le e Tony 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7728711_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Anime nere 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7657780_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Anita B. 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6178899.mp4/index_0_av.m3u8
+#EXTINF:-1,Annie Claus va in citt? 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6343960_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Aquadro 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7178988_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Babel 2006
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7879527_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Bel ami * Storia di un seduttore 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7094117_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Bella pazza impossibile 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7202291_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Bellas mariposas 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7122717_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Bianca come il latte. Rossa come il sangue 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7885828_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Black star * Nati sotto una stella nera 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8060891_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Caos calmo 2008
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/6538582_,250,400,700,1200,1800,2400,.mp4.csmil/index_5_av.m3u8
+#EXTINF:-1,Carl Morck 87 minuti per non morire 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6443127_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Cha cha cha 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7859396_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Chef 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD_2/6227340_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
+#EXTINF:-1,Ch?ri 2009
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7382918_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Codice fantasma 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7604904_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:6150,Cold in july 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6183355_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Come il vento 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7560064_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Confusi e felici 2014 (Bisio)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7836626_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Divorce invitation 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7974668_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Dobbiamo parlare 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8043965_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Empire State 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7613760_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Enigma 2001
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7190204_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Escape plan - fuga dall'inferno
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6612927_,800,1800,.mp4.csmil/master.m3u8?
+#EXTINF:-1,Fish Tank 2009
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7169276_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Free States of Jones 2016
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8177421_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Freelancers 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7098041_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Freelancers 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7098041_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Frozen Ground * Il cacciatore di donne 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7760933_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Gara d'amore
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7252948_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Gioiellino 2011
+https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/5324898_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Gli equilibristi 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7549031_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Gone * Scomparsa 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6687962_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Habemus papam 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8255878_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Heartbreakers
+https://2uscreativem2-vh.akamaihd.net/i/Italy/podcastmhp/replaytv/raimovie_replaytv/8231959_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Hector e la ricerca della felicit? 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7994702_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ho amici in paradiso 2016
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7428751_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,I due volti di gennaio 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7056179_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,I pi? grandi di tutti 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7250936_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il caso Kerenes 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7412887_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il cecchino 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7613767_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il Commissario Montalbano * Gatto e cardellino
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche_fiction/5612141_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Il Commissario Montalbano * La caccia al tesoro
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche_fiction/5651439_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
+#EXTINF:-1,Il Commissario Montalbano * Le ali della sfinge
+https://2uscreativem3-vh.akamaihd.net/i/Italy/podcastcdn/Fiction/RaiUno/Il_commissario_Montalbano/6835411_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il Commissario Montalbano * Una voce di notte
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche_fiction/5651674_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
+#EXTINF:-1,Il fidanzato di mia sorella 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7733889_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il giorno in pi? 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7722930_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il giudice e la minorenne 1974
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7273349_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il mondo fino in fondo 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6735945_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il padre e lo straniero 2010
+https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/3102783_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Il pasticciere 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5720737_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il principe abusivo 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8318535_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Il Sud ? niente 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6576022_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Imogene * Le disavventure di una newyorkese 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7383644_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,In arte Nino 2017  (Nino Manfredi)
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7656723_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,In un posto bellissimo 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8074786_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Incinta o ... quasi 2009
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7418657_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Infanzia clandestina 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7946674_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Io ci sono 2016
+https://2uscreativem2-vh.akamaihd.net/i/podcastcdn/Fiction/RaiUno/Io_ci_sono/6189291_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Io e lei 2015
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7817693_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Io sono l'altra 2006
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7190337_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Jane Eyre 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7077012_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Je suis Ilan 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7313806_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,K-19 2002
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7108379_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,K-pax
+https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/2971625_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,L'amore ? imperfetto 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/6515822_,250,400,700,1200,1800,2400,.mp4.csmil/index_5_av.m3u8
+#EXTINF:-1,L'educazione fisica delle fanciulle 2005
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7548713_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,L'estate addosso 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7828864_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,L'intrepido 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8141378_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,L'invitato 2007
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6588970_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,L'ispettore Coliandro * Corri Coliandro Corri
+https://2uscreativem2-vh.akamaihd.net/i/podcastcdn/Fiction/RaiDue/Coliandro/7772579.mp4/index_0_av.m3u8
+#EXTINF:-1,L'ispettore Coliandro * Il Team
+https://2uscreativem1-vh.akamaihd.net/i/podcastcdn/Fiction/RaiDue/Coliandro/7772576.mp4/index_0_av.m3u8
+#EXTINF:-1,L'ispettore Coliandro * La fine del mondo
+https://2uscreativem1-vh.akamaihd.net/i/podcastcdn/Fiction/RaiDue/Coliandro/7772601.mp4/index_0_av.m3u8
+#EXTINF:-1,L'ispettore Coliandro * Partita Speciale
+https://2uscreativem2-vh.akamaihd.net/i/podcastcdn/Fiction/RaiDue/Coliandro/7772568.mp4/index_0_av.m3u8
+#EXTINF:-1,L'ispettore Coliandro * Smartphone
+https://2uscreativem2-vh.akamaihd.net/i/podcastcdn/Fiction/RaiDue/Coliandro/7772594.mp4/index_0_av.m3u8
+#EXTINF:-1,La buca 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6398195_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La cena di Natale 2016
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8039348_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La corrispondenza 2016
+https://2uscreativem1-vh.akamaihd.net/i/Italy/podcastmhp/replaytv/raitre/sera/8314768_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,L'ottava nota
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8114935_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La foresta di ghiaccio 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6357330_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La mafia uccide solo d'estate 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8240803_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La maga delle spezie
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6279181.mp4/master.m3u8
+#EXTINF:-1,La mossa del pinguino 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6329272_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,La musica del silenzio 2017 (Bocelli)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7696549_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La pazza gioia 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7609845_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La pazza gioia 2016   
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7609845_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La rapina perfetta 2008
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7212028_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La scomparsa di Eleonor Rigby 2014
+https://2uscreativem1-vh.akamaihd.net/i/Italy/podcastmhp/replaytv/raimovie_replaytv/8267141_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La spia * A most wanted man 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7812999_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,La verit? sta in cielo 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7974363_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Latin lover 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7633560_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Le dolci zie 1975
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7446149_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Le nove vite del Natale 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8124147_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,London boulevard 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8010041_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Love is all you need 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7531719_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Mammuth 2010
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7343816_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Matrimoni e altri disastri 2010
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7614678_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Matrimoni e pregiudizi 2004
+https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/5350257_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Meduse 2007
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7476237_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Mia madre 2015
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7843538_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Mister Felicit? 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8207930_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Mogliamante 1977
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7327405_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Nella rete del serial killer 2008
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6444167_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,New in town 2009
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8174074_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Non sposate le mie figlie
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7296156_,800,1800,.mp4.csmil/index_0_av.m3u8
+#EXTINF:-1,Nozze romane 2017
+https://b2ushds2-vh.akamaihd.net/i/Italy/podcastcdn/Fiction/Nozze_Romane/7670919_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Operazione spy sitter 2009
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6972769_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Operazione spy sitter 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6972769_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ora puoi uccidere la sposa 2016
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6940174_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,P.S. I love you 2010
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/6294543_,250,400,700,1200,1800,2400,.mp4.csmil/index_5_av.m3u8
+#EXTINF:-1,Padri e figlie 2015
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7836595_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Paris-Manhattan 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7425266_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Parker 2013
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7249087_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Passengers * Mistero ad alta quota 2008
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7011415_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Nati stanchi 2001 (Ficarra - Picone)
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7499165_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Presto far? giorno 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7747466_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Quando la notte 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5832288_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Reclaim * Prenditi ci? che ? tuo 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7281999_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Rocco Chinnici fiction 2018
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/8258948_,700,1200,1800,2400,.mp4.csmil/index_3_av.m3u8
+#EXTINF:-1,Rush 2013 (automobilismo)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7535794_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Salvo 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7323437_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Sandokan Ep. 1
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5907223_,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_6_av.m3u8
+#EXTINF:-1,Sandokan Ep. 2
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche/5594258_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
+#EXTINF:-1,Sandokan Ep. 3
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche/5594265_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Sandokan Ep. 4
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche/5594272_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Sandokan Ep. 5
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche/5594261_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Sandokan Ep. 6
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/playrai_teche/5594276_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
+#EXTINF:-1,Scusate se esisto 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6295018_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Se fossi in te 2001
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7447835_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Sicario 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8004427_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Sledge 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7585701_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Smetto quando voglio 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7932579_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Snitch l'infiltrato 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8039339_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Solitary man 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7651989_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Something good 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8157568_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Song 'e Napule 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7097368_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Source code 2011
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8261512_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Southpaw * L'ultima sfida 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7993413_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Stolen (2012)
+https://2uscreativem3-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/3567509_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,Superquark del 21.Giu.17
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7254332_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 12.Lug.17
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7347854_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 26.Lug.17 (animali-robot)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7408181_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 02.Ago.17
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7437002_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 09.Ago.17
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7465891_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 16.Ago.17
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7489921_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,SuperQuark del 23.Ago.17
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raiuno/superquark/Superquark_EP_Puntate/7514311_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Take Five 2013 (in napoletano...mmh)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7864144_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Tape 407 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6684212_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Tezz 2012
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6940174_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The Eagle 2011 (storico)
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7739801_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The First 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7074092_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The Grey 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7578444_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The new daughter 2009
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7418825_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The Search 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7759342_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The son of no one 2011
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7595827_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The tourist 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD/8041080_,700,1200,1800,2400,.mp4.csmil/index_2_av.m3u8
+#EXTINF:-1,The Whistleblower 2010
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7648326_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,The wolf of wall street 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6134359_1800.mp4/index_0_av.m3u8
+#EXTINF:-1,The woman in black 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8057628_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ti ricordi di me? 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5938999_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ti va di pagare? Priceless 2006
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7116417_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Tommaso 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7793144_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Tutte lo vogliono 2015
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8230000_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Tutto pu? accadere a Broadway 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8057628_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Ulisse 1954 (revival)
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7902742_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un angelo sotto l'albero 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6345237_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un anno da leoni 2011
+https://2uscreativem1-vh.akamaihd.net/i/Italy/podcastmhp/replaytv/raidue/sera/8345893_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un anno dopo (The Great New Wonderful) 2005
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7067633_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un fantastico via vai 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8128628_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un fidanzato per mia moglie 2014
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5969674_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Un Paese quasi perfetto 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7745587_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Una fragile armonia 2011
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5835094_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Una promessa 2013
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7764533_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Una sposa in affitto 2011
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7975619_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Veloce come il vento 2016
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8277938_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Vento di primavera 2010
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6482995_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,Windtalkers
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7552159_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,White bird in a blizard 2014
+https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6415792.mp4/index_0_av.m3u8
+#EXTINF:-1,Workers * Pronti a tutto 2012
+https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5934141_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1,---RADIO ITALIANE---
+
+#EXTINF:-1,RAI Radio 1
+http://icestreaming.rai.it/1.mp3
+#EXTINF:-1,RAI Radio 2
+http://icestreaming.rai.it/2.mp3
+#EXTINF:-1,RAI Radio 3
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1,RAI Radio 4 Light
+http://icestreaming.rai.it/4.mp3
+#EXTINF:-1,RAI Radio 5 Classica
+http://icestreaming.rai.it/5.mp3
+#EXTINF:-1,Rai Radio 6 Teca
+http://icestreaming.rai.it:80/9.mp3
+#EXTINF:-1,Rai Radio 7 Live
+http://icestreaming.rai.it:80/10.mp3
+#EXTINF:-1,Rai Radio 8 Opera
+http://icestreaming.rai.it:80/11.mp3
+#EXTINF:-1,RAI IsoRadio
+http://icestreaming.rai.it/6.mp3
+#EXTINF:-1,RAI GrParlamento
+http://icestreaming.rai.it/7.mp3
+#EXTINF:-1,RADIO SPORTIVA
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RTL 102.5
+http://shoutcast.rtl.it:3010/
+#EXTINF:-1,RTL Best
+http://shoutcast.rtl.it:3020/
+#EXTINF:-1,RTL ItalianStyle
+http://shoutcast.rtl.it:3030/
+#EXTINF:-1,RTL Lounge
+http://shoutcast.rtl.it:3070/
+#EXTINF:-1,RADIO FRECCIA
+http://shoutcast.rtl.it:3060/;stream.nsv
+#EXTINF:-1,Radio Kiss Kiss (opz 1)
+http://wma08.fluidstream.net:4610/
+#EXTINF:-1,Radio Kiss Kiss (opz 2))
+http://ice07.fluidstream.net:8080/KissKiss.mp3
+#EXTINF:-1,Radio Kiss Kiss Italia
+http://wma07.fluidstream.net:3616/;stream.nsv
+#EXTINF:-1,RDS
+http://www.rds.it:8000/stream
+#EXTINF:-1,Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1,Radio Zeta L?Italiana
+http://shoutcast.rtl.it:3030/stream/1/
+#EXTINF:-1,Radio Capital
+http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+#EXTINF:-1,Radio m2o
+http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+#EXTINF:-1,RADIO CLASSICA
+http://onair15.xdevel.com:7096/
+#EXTINF:-1,RADIO STAR ITALIA (LIGABUE)
+http://icy.unitedradio.it/Ligabue.mp3
+#EXTINF:-1,RADIO STAR ITALIA (MINA)
+http://edge.radiomontecarlo.net/rmcweb014
+#EXTINF:-1,RADIO STAR ITALIA (GIORGIA)
+http://edge.radiomontecarlo.net/rmcweb013
+#EXTINF:-1,RADIO STAR ITALIA (PINO DANIELE)
+http://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1,RADIO STAR ITALIA (TIZIANO FERRO)
+http://icy.unitedradio.it/Ferro.mp3
+#EXTINF:-1,RADIO STAR ITALIA (ZUCCHERO)
+http://icy.unitedradio.it/Zucchero.mp3
+#EXTINF:-1,RADIO STAR ITALIA (JOVANOTTI)
+http://icy.unitedradio.it/Jovanotti.mp3
+#EXTINF:-1,RADIO STAR ITALIA (VASCO ROSSI)
+http://icy.unitedradio.it/Vasco.mp3
+#EXTINF:-1,RADIO 24
+http://shoutcast.radio24.it:8000/
+#EXTINF:-1,RADIO LATTEMIELE
+http://91.121.223.95:8002/
+#EXTINF:-1,RADIO BIRIKINA
+http://wma02.fluidstream.net:2220/
+#EXTINF:-1,RADIO BELLA E MONELLA
+http://wma01.fluidstream.net/bella
+#EXTINF:-1,RADIO MARTE
+http://onair18.xdevel.com:8212/
+#EXTINF:-1,RADIO IBIZA
+http://wma02.fluidstream.net:5010/
+#EXTINF:-1,RADIO MONTECARLO
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,RADIO MONTECARLO  2
+http://icecast.unitedradio.it/MC2.mp3
+#EXTINF:-1,RCM 80
+http://edge.radiomontecarlo.net/rmcweb008
+#EXTINF:-1,RCM 90
+http://edge.radiomontecarlo.net/rmcweb009
+#EXTINF:-1,RCM DUETS
+http://edge.radiomontecarlo.net/rmcweb003
+#EXTINF:-1,RCM HITS
+http://edge.radiomontecarlo.net/rmcweb001
+#EXTINF:-1,VIRGIN RADIO
+http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,RADIO 105
+http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,RADIO 105 CLASSIC
+http://icy.unitedradio.it/105Classics.mp3?amsparams=playerid:208f105web;skey:1468657622
+#EXTINF:-1,RADIO 105 Hip Hop RnB
+http://icy.unitedradio.it/105HipHopRnB.mp3
+#EXTINF:-1,RADIO NORBA
+http://onair20.xdevel.com:8218/
+#EXTINF:-1,RADIO SUBASIO
+http://onair18.xdevel.com:8152
+#EXTINF:-1,RADIO SUBASIO +
+http://onair11.xdevel.com:8050
+#EXTINF:-1,RADIO SUBASIO XL
+http://onair11.xdevel.com:8052/
+#EXTINF:-1,RADIO AMORE CAMPANIA
+http://onair11.xdevel.com:8002
+#EXTINF:-1,RADIO CUORE
+http://nr9.newradio.it:9029
+#EXTINF:-1,RIN RADIO ITALIA NETWORK
+http://sr9.inmystream.info:8006
+#EXTINF:-1,LINEA RADIO SAVONA
+http://94.23.67.20:8034/stream
+#EXTINF:-1,RADIO BABBOLEO
+http://www.babboleostreaming.it/RadioBabboleo.mp3
+#EXTINF:-1,RADIO BABBOLEO SUONO
+http://www.babboleostreaming.it:443/RadioBabboleoSuono.mp3
+#EXTINF:-1,RADIO BABBOLEO NEWS
+http://www.babboleostreaming.it/RadioBabboleoNews.mp3
+#EXTINF:-1,RADIO 19 GENOVA
+http://str04.fluidstream.net/radio19.mp3
+#EXTINF:-1,RADIO LIFEGATE
+http://onair11.xdevel.com:8024
+#EXTINF:-1,RADIO ENERGY
+http://178.32.62.172:8911/
+#EXTINF:-1,RADIO ANIMATI
+http://www.radioanimati.it/streaming/radioanimati.m3u
+#EXTINF:-1,RADIO ONDA ROSSA
+http://radio.dyne.org:8000/ondarossa.mp3
+#EXTINF:-1,RADIO DANCE TRIESTE
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,RADIO 4 NETWORK
+http://panel8.newradio.it:9101/;
+#EXTINF:-1,RADIO CITTA' DEL CAPO
+http://stream.rcdc.it:8000/;
+#EXTINF:-1,RADIO RIVIERA DOLCISSIMA
+http://5.39.89.17:6434/;
+#EXTINF:-1,RADIO REGGIO
+http://onair15.xdevel.com:9082/;
+#EXTINF:-1,RADIO ONDE FURLANE
+http://81.208.101.95:8080/;
+#EXTINF:-1,RADIO POPOLARE
+http://livex.radiopopolare.it/radiopop
+#EXTINF:-1,RADIO VALLE BELBO
+http://nr9.newradio.it:9581/;listen
+#EXTINF:-1,RADIO HOLIDAY
+http://stream.radioholiday.it:8000
+#EXTINF:-1,RADIO CALOLZIO
+http://188.13.39.146:8000/;
+#EXTINF:-1,CIAO COMO RADIO
+http://audio1.meway.tv:8078/;
+#EXTINF:-1,RADIO LOMBARDIA
+http://onair11.xdevel.com:10016/;
+#EXTINF:-1,RADIO KEMONIA
+http://kemoniastreaming2.net:8000/;
+#EXTINF:-1,RADIO VIVA FM
+http://178.32.139.120:8002/stream
+#EXTINF:-1,RADIO PUNTO ZERO
+http://wma02.fluidstream.net:8120/;
+#EXTINF:-1,RADIO PLANET FM
+http://91.121.104.139:8100/;
+#EXTINF:-1,RADIO ANTENNA 2
+http://wma03.fluidstream.net:9070/;
+#EXTINF:-1,RDT STATION
+http://dreamsiteradiocp3.com:8024/;
+#EXTINF:-1,LOLLI RADIO ITALIA
+http://www.lolliradio.net/streaming/italia.m3u
+#EXTINF:-1,LOLLI RADIO SOFT NOTIZIE
+http://nr8.newradio.it:8040/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HAPPY
+http://nr11.newradio.it:8030/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO HITS
+http://nr11.newradio.it:8080/;listen&ext=.mp3
+#EXTINF:-1,LOLLI RADIO DANCE
+http://nr11.newradio.it:8050/;listen&ext=.mp3
+#EXTINF:-1,RADIO ANNI 80
+http://str01.fluidstream.net:7020/;stream.mp3
+#EXTINF:-1,RADIO ITALIA ANNI 60
+http://wma01.fluidstream.net:7140/
+#EXTINF:-1,RADIO COMPANY
+http://str01.fluidstream.net:7010/;stream.mp3
+#EXTINF:-1,RADIO VALBELLUNA
+http://str01.fluidstream.net:7030/;stream.mp3
+#EXTINF:-1,RADIO MARILU'
+http://wma02.fluidstream.net:2210/
+#EXTINF:-1,RADIO SORRISO
+http://wma02.fluidstream.net:2250/
+#EXTINF:-1,RADIO 19
+http://ice12.fluidstream.net/radio19.aac?type=.flv&r=285507
+#EXTINF:-1,RADIO PITERPAN
+http://wma02.fluidstream.net:2230/
+#EXTINF:-1,RADIO VALENTINA
+http://wma01x.fluidstream.net/valentina.aac?type=.flv
+#EXTINF:-1,NEW RADIO
+http://nr5.newradio.it:8545/stream
+#EXTINF:-1,RADIO NUMBER ONE
+http://ice12.fluidstream.net/rn1.mp3
+#EXTINF:-1,RADIO BOMBO
+http://nr5.newradio.it:8749/;
+#EXTINF:-1,RADIO RETE SMASH
+http://nr3.newradio.it:8300/;
+#EXTINF:-1,RADIO T.R.C.
+http://sr3.inmystream.info:8018/;
+#EXTINF:-1,RADIO RETE 1 NETWORK
+http://dreamsiteradiocp3.com:8042/;
+#EXTINF:-1,RADIO YACHT
+http://94.23.67.172:9160
+#EXTINF:-1,RADIO DANCE 90
+http://37.247.49.19/105Dance90.mp3
+#EXTINF:-1,RADIOLINA
+http://178.33.229.111:8030/
+#EXTINF:-1,RADIO X CAGLIARI
+http://eu1.fastcast4u.com:2014/stream?1478973936177.aac
+#EXTINF:-1,RADIO SARDINIA
+http://wma2.mediastreaming.it:80/radiosardinia
+#EXTINF:-1,RADIO FUSION
+http://91.121.38.216:8034/;
+#EXTINF:-1,RADIO BARBAGIA
+http://sr1.inmystream.info:9075/;
+#EXTINF:-1,L'ALTRA RADIO
+http://nr6.newradio.it:9182/;
+#EXTINF:-1,RADIO ALDEBARAN
+http://5.135.39.189:8026/
+#EXTINF:-1,RADIO STEREO
+http://trsw.inmystream.info:8068/
+#EXTINF:-1,RADIO RADICALE
+http://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,RADIO PADANIA LIBERA
+http://onair11.xdevel.com:9986/;stream.m4a
+#EXTINF:-1,RADIO MARIA
+http://dreamsiteradiocp.com:8006/
+#EXTINF:-1,RADIO MATER
+http://s3.shoutitaly.com:8016/
+#EXTINF:-1,RADIO INCONTRO DONNA
+http://nr7.newradio.it:9375/;stream.mp3
+#EXTINF:-1,RADIO VENERE
+http://onair18.xdevel.com:8018/;stream.m4a
+#EXTINF:-1,RADIO MAMBO
+http://stream1.mambo.it:8062/
+#EXTINF:-1,YES DANCE RADIO
+http://sr2.inmystream.info:8013/stream
+#EXTINF:-1,RADIO REMEMBER 70/80/90
+http://listen.radionomy.com/remember708090
+#EXTINF:-1,RADIO MAGENTA
+http://sr9.inmystream.info:8038
+#EXTINF:-1,RADIO STUDIO PIU'
+http://www.studiopiu.net:8000/
+#EXTINF:-1,RADIO PANDA
+http://178.32.139.167:8038/
+#EXTINF:-1,STUDIO RADIO
+http://91.121.38.216:8060/
+#EXTINF:-1,ANTENNA RADIO ESSE
+http://s8.mediastreaming.it:7580/
+#EXTINF:-1,BELLA RADIO
+http://server.bellaradio.it:8090/a1.mp3
+#EXTINF:-1,RADIO CENTRO SUONO SPORT
+http://www.radiocentrosuono.it:8000/rcss.m3u
+#EXTINF:-1,RADIO COUNTRY POWER STATION
+http://shoutcast.countrypowerstation.net:2199/tunein/cps.pls
+#EXTINF:-1,RADIO EASY NETWORK
+http://str01.fluidstream.net:6030/
+#EXTINF:-1,RADIO FM ITALIA
+http://onair7.xdevel.com:8700/
+#EXTINF:-1,GAMMA RADIO
+http://nr9.newradio.it:9071/
+#EXTINF:-1,RADIO QUEEN
+http://ascolta.no-ip.org:8000/
+#EXTINF:-1,RADIO ALCAMO CENTRALE
+http://onair11.xdevel.com:8214/
+#EXTINF:-1,RADIO BUDRIO
+http://audio1.meway.tv:8040/
+#EXTINF:-1,RADIO BUSSOLA 24
+http://rbussola01.as48500.net:8018/
+#EXTINF:-1,RADIO CENTRO 95
+http://194.116.73.162/radiocentro95.m3u
+#EXTINF:-1,RADIO DOLOMITI
+http://streaming.radiodolomiti.com:8068/
+#EXTINF:-1,RADIO DUE PUNTO ZERO
+http://www.radioduepuntozero.net/diretta56.m3u
+#EXTINF:-1,RADIO GAMMA GIOIOSA
+http://www.gammagioiosa.net/radiogamma.m3u
+#EXTINF:-1,RADIO MILANO
+http://sh1.inmystream.info:8175/
+#EXTINF:-1,RADIO RECORD
+http://wma01.fluidstream.net:7170/
+#EXTINF:-1,RADIO REPORTER
+http://nr9.newradio.it:9085/listen.pls?sid=1
+#EXTINF:-1,RADIO VANESSA
+http://sr3.inmystream.info:8002/stream
+#EXTINF:-1,RADIO MELODY
+http://www.goldenradio.it/listen.m3u
+#EXTINF:-1,LAZIO STYLE RADIO
+http://176.31.117.120:8221/
+#EXTINF:-1,RADIO LIFEGATE SOUND
+http://onair15.xdevel.com:8254/
+#EXTINF:-1,RADIO GELOSA
+http://ice02.fluidstream.net/gelosa
+#EXTINF:-1,RADIO CARINA
+http://37.187.93.104:8054/stream
+#EXTINF:-1,RADIO CICCIORICCIO
+http://onair11.xdevel.com:8198/
+#EXTINF:-1,RADIO STEREO CITTA'
+http://onair7.xdevel.com:8746/
+#EXTINF:-1,RADIO ROSA
+http://onair15.xdevel.com:8100/
+#EXTINF:-1,RADIO LA FENICE CHANNEL
+http://nr9.newradio.it:9690/stream.mp3?1486762129626.mp3
+#EXTINF:-1,RADIO SELENE
+http://audio1.meway.tv:8032/;stream.nsv?1486762246654.mp3
+#EXTINF:-1,RADIO SUBY NICE
+http://onair7.xdevel.com:8702/;stream.nsv?1486762434493.mp3
+#EXTINF:-1,RADIO CAFE'
+http://onair7.xdevel.com:8744/;stream.nsv?1486762607955.mp3
+#EXTINF:-1,RADIO TOURING
+http://onair18.xdevel.com:8102/;stream.nsv?1486762805383.mp3
+#EXTINF:-1,RADIO MARGHERITA
+http://shoutcast.streamingmedia.it:7072/
+#EXTINF:-1,RADIO DIVA FM
+http://ice04.fluidstream.net/fluid0401.mp3
+#EXTINF:-1,RADIO FLY ITALIA
+http://sr4.inmystream.info:8075/stream
+#EXTINF:-1,RADIO PICO
+http://onair11.xdevel.com:8064/
+#EXTINF:-1,RADIO LISCIO E FOLK
+http://dj.mediastreaming.it:7012/
+#EXTINF:-1,RADIO ADIGE
+http://onair15.xdevel.com:8638/
+#EXTINF:-1,RADIO DIMENSIONE
+http://dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3
+#EXTINF:-1,RADIO MILLE NOTE
+http://ice12.fluidstream.net/millenote.mp3
+#EXTINF:-1,RADIO CIAO
+http://onair15.xdevel.com:8236/;
+#EXTINF:-1,RADIO RCS L'ONDA VERONESE
+http://164.132.178.50:8030/;stream.mp
+#EXTINF:-1,RADIO RAM POWER
+http://46.37.20.205:8000/ram
+#EXTINF:-1,RADIO PLAY STUDIO
+http://193.70.21.115:8000/;
+#EXTINF:-1,RADIO RETE SPORT
+http://5.152.159.31:8080/
+#EXTINF:-1,RADIO NON SOLO SUONI
+http://95.110.226.198:8000
+#EXTINF:-1,RADIO NUOVA SANGIORGIO
+http://eu1.fastcast4u.com:10942
+#EXTINF:-1,ITALIAN GRAFFIATI
+http://kos.broadstreamer.com:8500
+#EXTINF:-1,RADIO VATICANA
+http://live.vaticanwebradio.org/channel5.mp3
+#EXTINF:-1,RADIO SABBIA
+http://onair15.xdevel.com:8672/
+#EXTINF:-1,RADIO JUKEBOX
+http://onair15.xdevel.com:9096/
+#EXTINF:-1,RADIO MALVISI NETWORK
+http://onair20.xdevel.com:8062/
+#EXTINF:-1,Radio rsi rete 1
+http://lsaplus.swisstxt.ch/audio/reteuno_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 2
+http://lsaplus.swisstxt.ch/audio/retedue_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio rsi rete 3
+http://lsaplus.swisstxt.ch/audio/retetre_96.stream/chunklist_DVR.m3u8
+#EXTINF:-1,Radio capodistria
+http://mp3.rtvslo.si/capo
+#EXTINF:-1,RADIO ONDA LIGURE
+http://onair15.xdevel.com:8118/;stream.mp3
+#EXTINF:-1,RADIO SONICA 
+http://sr6.inmystream.info:8151/
+#EXTINF:-1,RADIO ACTION 
+http://onair11.xdevel.com:7986/;stream.mp3
+#EXTINF:-1,RADIO ORIZZONTE MOLISE
+http://s3.mediastreaming.it:7200/;stream.mp3
+#EXTINF:-1,RADIO VIVA FM
+http://stream2.vivafm.it:8002/
+#EXTINF:-1,RADIO SEMPRE VIVA
+http://stream2.vivafm.it:8000/
+#EXTINF:-1,RADIOSTUDIO DELTA
+http://92.222.155.230:7203/
+#EXTINF:-1,RADIO RADIO 104 FM ROMA 
+http://mp3.radioradio.it:8102
+#EXTINF:-1,RADIO ABRUZZO FM 
+http://sc1.streamingpulse.com:8004/;
+#EXTINF:-1,RADIO C1 PESCARA
+http://vps62853.ovh.net:9030/stream
+#EXTINF:-1,RADIO SKYPPER CHIETI 
+http://kos.broadstreamer.com:8700/
+#EXTINF:-1,RADIO R9 TERAMO
+http://178.32.136.9:9013/; 
+#EXTINF:-1,RADIO EMPIRE 
+http://onair11.xdevel.com:9996/;
+#EXTINF:-1,RADIO 2 BASILICATA
+http://sr1.inmystream.info:8333/;
+#EXTINF:-1,RADIO LASER MATERA
+http://sr1.inmystream.it:9002/;
+#EXTINF:-1,RADIO POLI POTENZA
+http://poliradio.polimi.it:8000/mp3
+#EXTINF:-1,RADIO GENTE UMBRA 
+http://84.253.137.250:8000/;
+#EXTINF:-1,RADIO DOT FOLIGNO
+http://nr9.newradio.it:9504/; 
+#EXTINF:-1,RADIO ORTE TERNI
+http://onair18.xdevel.com:8122/;
+#EXTINF:-1,RADIO LUCE PERUGIA
+http://onair11.xdevel.com:8118/;
+#EXTINF:-1,RADIO ARANCIA NETWORK ANCONA
+http://ice03.fluidstream.net/arancia.mp3
+#EXTINF:-1,RADIO BACIO
+http://46.105.18.18:8000/stream/
+#EXTINF:-1,RADIO STUDIO SHOW
+http://ice12.fluidstream.net/fluid2314.mp3
+#EXTINF:-1,RADIO CHIOGGIA SOTTOMARINA
+http://stream.wifi4all.it:8000/rcs
+#EXTINF:-1,RADIO TREVISO
+http://s3.mediastreaming.it:7240/;
+#EXTINF:-1,RADIO VENETO UNO 
+http://62.149.171.91:8080/live
+#EXTINF:-1,RADIO SHERWOOD PADOVA
+http://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3
+
+
+#EXTINF:-1,RADIO BUE PADOVA
+http://147.162.19.241:8000/
+#EXTINF:-1,RADIO STELLA VICENZA
+http://onair11.xdevel.com:8108/;
+#EXTINF:-1,RADIO VENERE 
+http://onair18.xdevel.com:8018/;stream.mp3
+#EXTINF:-1,RADIO ONIX COMO 
+http://nr4.newradio.it:9432/stream?1507315890000 
+#EXTINF:-1,RADIO MARCONI 1(NEWS E MUSICA)
+http://onair15.xdevel.com:8922/;stream.mp3
+#EXTINF:-1,RADIO MARCONI 2(MUSICA CLASSICA)
+http://onair22.streaming.xdevel.com:7598/;stream.mp3
+#EXTINF:-1,RADIO MAGICA
+http://nr6.newradio.it:9225/stream
+#EXTINF:-1,RADIO IMMAGINE
+http://nr8.newradio.it:9093/
+#EXTINF:-1,RADIO IMMAGINE LATINA
+http://nr8.newradio.it:9097/
+#EXTINF:-1,RADIO IMMAGINE SOFT
+http://nr8.newradio.it:9095/
+#EXTINF:-1,RADIO TI RICORDI (RTR 99)
+http://nr5.newradio.it:8541/
+#EXTINF:-1,R.T.T. LA RADIO 
+http://str01.fluidstream.net/rtt.mp3
+#EXTINF:-1,RADIO PRIMIERO
+http://onair15.xdevel.com:8316/
+#EXTINF:-1,ANTENNA RADIO ESSE
+http://s6.mediastreaming.it:9058/
+#EXTINF:-1,RADIO SPAZIO 103 FRIULI
+http://192.240.97.67:8108/
+#EXTINF:-1,RADIO CALIFORNIA
+http://onair22.streaming.xdevel.com:10084/
+#EXTINF:-1,R.C.S. L'ONDA VERONESE
+http://164.132.178.50:8030/
+#EXTINF:-1,RAM POWER 102.7
+http://46.37.20.205:8000/ram
+#EXTINF:-1,RADIO ITALIA 90 
+http://onair11.xdevel.com:7984/
+#EXTINF:-1,RADIO DUEMILA 
+http://onair20.xdevel.com:8076/
+#EXTINF:-1,RADIO REPLIVE.IT 
+http://192.240.97.68:8002/live
+#EXTINF:-1,RADIO  WEB BASE
+http://streaming.radionomy.com/RADIOWEB-BASE
+#EXTINF:-1,RADIO ASTERISCO 
+http://sr2.inmystream.info:8588/
+#EXTINF:-1,RADIO JANGA
+http://streaming.radionomy.com/jangaradio
+#EXTINF:-1,RADIO ONE A ONE
+http://streaming.radionomy.com/Streaming-101
+#EXTINF:-1,RADIO 35X80 
+http://streaming.radionomy.com/35x80
+#EXTINF:-1,RADIO BASE POPOLARE 
+http://stream.radiobase.net:8000/live02.mp3
+#EXTINF:-1,RADIO CHIOGGIA SOTTOMARINA 
+http://stream.wifi4all.it:8000/rcs
+#EXTINF:-1,RADIO CITTA' FUJIKO 
+http://comodino.org:8001/rcf.ogg
+#EXTINF:-1,RADIO LATITA 
+http://streaming.radionomy.com/Latita
+#EXTINF:-1,RADIO STUDIO NORD
+http://nr6.newradio.it:9104/
+#EXTINF:-1,RADIO MACH 5
+http://sr4.inmystream.info:8183/
+#EXTINF:-1,RADIO STREET MESSINA
+http://onair7.xdevel.com:8770/
+#EXTINF:-1,RADIO STOP
+http://onair15.xdevel.com:8030/
+#EXTINF:-1,HORIZON RADIO GENESIS
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,RADIO ACTIVITY
+http://178.32.140.82:9648/stream/1/
+#EXTINF:-1,RADIO LUPO SOLITARIO 
+http://eu1.fastcast4u.com:3048/
+#EXTINF:-1,RADIO MODENA 90 
+http://onair15.xdevel.com:8502/
+#EXTINF:-1,RADIO FIEMME 104
+http://dreamsiteradiocp3.com:8040/
+#EXTINF:-1,RADIO CERNUSCO STEREO
+http://37.130.230.92:7120/
